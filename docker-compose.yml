@@ -1,0 +1,9 @@
+services:
+  automation-tests:
+    build: .
+    volumes:
+      - .:/app
+      - /app/target
+    environment:
+      - headless=true
+    command: mvn test

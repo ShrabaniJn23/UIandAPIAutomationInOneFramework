@@ -1,0 +1,21 @@
+Status: 200
+Headers: Date=Tue, 24 Mar 2026 18:01:51 GMT
+Content-Type=text/html; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+vary=Accept,Cookie,Accept-Encoding
+referrer-policy=same-origin
+x-frame-options=DENY
+x-content-type-options=nosniff
+allow=POST, OPTIONS
+x-powered-by=Phusion Passenger(R) 6.1.2
+status=200 OK
+Report-To={"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jhgVZ3XKw2KiOzwyEmeIXgfx2K9sO2MkrXtSJdTQgrezryUKRsJMd%2F3CkPbvKMiV8XPYmGGYRv4wCfSWpR3n3VH4beZZQ%2BxetVWV7xi6OGflZd9Kh98%3D"}]}
+Server=cloudflare
+cf-cache-status=DYNAMIC
+Nel={"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+CF-RAY=9e17955ad9f1e279-MRS
+alt-svc=h3=":443"; ma=86400
+Body: <html>
+  <body>{"responseCode": 400, "message": "Email already exists!"}</body>
+</html>

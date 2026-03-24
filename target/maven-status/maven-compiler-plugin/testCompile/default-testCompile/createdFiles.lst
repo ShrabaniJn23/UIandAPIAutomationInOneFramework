@@ -1,0 +1,7 @@
+com\example\pages\LoginPage.class
+com\example\steps\UserManagementSteps.class
+com\example\runner\TestRunner.class
+com\example\utils\ExcelReader.class
+com\example\pages\HomePage.class
+com\example\pages\CartPage.class
+com\example\steps\SearchSteps.class
